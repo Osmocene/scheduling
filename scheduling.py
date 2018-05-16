@@ -5,6 +5,7 @@ Created on Tue May 15 11:50:37 2018
 @author: Zachary Lau
 """
 
+#Hi im yuhan
 import openpyxl as xl
 
 start_time = 8 #Earliest start time out of 24 hours
